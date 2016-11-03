@@ -1,0 +1,2 @@
+# DizzyNote
+DizzyNote is a music game that a small ball is rotate around a larger polygon, when we press space key, the small ball would shoot a side to the polygon. If the side reaches an untaken side on the polygon, the polygon would change the color of that side and give a beautiful note. If the side reaches to a taken place the polygon would reset to  it's original state. If all the sides of a polygon are taken, a simple melody would be triggered and the player win this round and start the next round.
