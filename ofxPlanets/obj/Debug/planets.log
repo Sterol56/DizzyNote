@@ -1,0 +1,7 @@
+﻿  ofApp.cpp
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  planets.vcxproj -> D:\Program Files\of_v0.9.6_vs_release\apps\myApps\ofxPlanets\bin\planets_debug.exe
+  planets.vcxproj -> bin\planets_debug.pdb (Full PDB)
+  
+  	                   9	D:\Program Files\of_v0.9.6_vs_release\export\vs\Win32\
